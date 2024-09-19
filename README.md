@@ -1,0 +1,2 @@
+# NewsEssence
+news summarizer
